@@ -64,36 +64,62 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=anishkarki037&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkarki037&layout=compact&hide_border=true&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
+  <!-- Primary Stats with cache busting and accurate settings -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishkarki037&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&cache_seconds=1800" alt="Anish's GitHub stats" />
   
-  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkarki037&theme=tokyonight&hide_border=true" alt="Anish's GitHub streak" />
+  <!-- Top Languages with better accuracy -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkarki037&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&hide=jupyter%20notebook,html&exclude_repo=anishkarki037" alt="Anish's top languages" />
+</div>
+
+<br/>
+
+<!-- Alternative Stats Service for Cross-Verification -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishkarki037&theme=github_dark" alt="Anish's Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- More accurate streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=anishkarki037&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="Anish's GitHub streak" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishkarki037&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Anish's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anishkarki037&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Anish's trophies" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 📈 Contribution Graph
+## 📈 Activity Graph & Detailed Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishkarki037&theme=react-dark&hide_border=true" alt="Anish's contribution graph" />
+  <!-- More accurate contribution graph -->
+ ### 📈 Contribution Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishkarki037&theme=tokyonight&hide_border=true" />
 </div>
+
+</div>
+
+<br/>
+
+<!-- Additional detailed stats cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishkarki037&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anishkarki037&theme=github_dark&utc_offset=5.75" alt="Productive Time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishkarki037&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishkarki037&theme=github_dark" alt="Most Commit Language" />
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Connect with me
 
@@ -104,6 +130,9 @@
   <a href="https://www.anish-karki.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:anishkarkee45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -112,13 +141,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anishkarki037&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
-  
 </div>
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/anishkarki037/anishkarki037/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Footer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
